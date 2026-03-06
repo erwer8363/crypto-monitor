@@ -1,0 +1,15 @@
+# Python
+**/venv/
+**/__pycache__/
+*.pyc
+
+# Go
+**/bin/
+**/engine-go/engine-go  # 编译后的二进制文件
+
+# IDE
+.idea/
+.vscode/
+
+# Env
+.env
